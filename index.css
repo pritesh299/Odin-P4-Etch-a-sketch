@@ -1,0 +1,9 @@
+#container{
+    max-height: 500px;
+    width: 500px;
+   display: block;
+   margin: auto;
+   background-size: contain;
+   overflow: hidden;
+   
+}
